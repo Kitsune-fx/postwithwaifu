@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/postwithwaifu/static/css/main.5ebc3e54.chunk.css",
+    "main.css": "/postwithwaifu/static/css/main.b2d79636.chunk.css",
     "main.js": "/postwithwaifu/static/js/main.17a931ed.chunk.js",
     "main.js.map": "/postwithwaifu/static/js/main.17a931ed.chunk.js.map",
     "runtime-main.js": "/postwithwaifu/static/js/runtime-main.bcc1fcb5.js",
@@ -10,13 +10,13 @@
     "static/js/3.0ebd6d64.chunk.js": "/postwithwaifu/static/js/3.0ebd6d64.chunk.js",
     "static/js/3.0ebd6d64.chunk.js.map": "/postwithwaifu/static/js/3.0ebd6d64.chunk.js.map",
     "index.html": "/postwithwaifu/index.html",
-    "static/css/main.5ebc3e54.chunk.css.map": "/postwithwaifu/static/css/main.5ebc3e54.chunk.css.map",
+    "static/css/main.b2d79636.chunk.css.map": "/postwithwaifu/static/css/main.b2d79636.chunk.css.map",
     "static/js/2.751be0c3.chunk.js.LICENSE.txt": "/postwithwaifu/static/js/2.751be0c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bcc1fcb5.js",
     "static/js/2.751be0c3.chunk.js",
-    "static/css/main.5ebc3e54.chunk.css",
+    "static/css/main.b2d79636.chunk.css",
     "static/js/main.17a931ed.chunk.js"
   ]
 }
